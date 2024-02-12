@@ -1,0 +1,14 @@
+{
+    "name":"Ayushi",
+    "favouriteNumber":1,
+    "isProgrammer": true,
+    "hobbies":["Reading","Cooking","Cleaning","Coding","Travelling"],
+    "friends":[{
+        "name":"TOY",
+    "favouriteNumber":7,
+    "isProgrammer": false,
+    "hobbies":["Cleaning","Coding","Travelling"]
+             }]
+
+
+}
