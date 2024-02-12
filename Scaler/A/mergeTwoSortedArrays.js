@@ -11,10 +11,10 @@ function mergeTwoSortedArray(arr1,arr2){
             result[ind++] = arr2[j++];
         }
     }
-    if( i < arr1.length){
+    while( i < arr1.length){
         result[ind++] = arr1[i++];
     }
-    if( j < arr2.length){
+    while( j < arr2.length){
         result[ind++] = arr2[j++];
     }
 
